@@ -7,6 +7,7 @@ Each lab is pushed to a **separate Git branch** to keep the main branch clean an
 | `lab-1`     | Portfolio   |
 | `lab-2`     | userList    |
 | `lab-3`     | MoviesAPI   |
+| `lab-4`     | Movies Details|
 
 > The `main` branch contains no active lab — only the structure or documentation.
 
